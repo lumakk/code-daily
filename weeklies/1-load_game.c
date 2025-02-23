@@ -4,7 +4,7 @@ int main(){
     char menuInput;
     printf("Papaload po!\n");
 
-    printf("1. Regular Load \n2. Offers");
+    printf("1. Regular Load \n2. Offers\n");
     scanf("%c", menuInput);
 
     switch (menuInput)
