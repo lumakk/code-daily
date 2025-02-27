@@ -9,6 +9,10 @@ int main(){
 
     printf("Original string: %s", string);
     printf("\nReversed string: %s", strrev(string));
+    getchar(); 
+
+    printf("\nPress ENTER key to Continue\n");  
+    getchar(); 
 
     return 0;
 
